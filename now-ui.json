@@ -6,7 +6,7 @@
 				"associatedTypes": ["global.core", "global.landing-page"],
 				"label": "Now Task Dashboard",
 				"icon": "chart-forecast-fill",
-				"description": "Devin is the best",
+				"description": "Devin is the best!",
 				"category": "primitives"
 			}
 	    }
