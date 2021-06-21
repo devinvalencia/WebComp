@@ -4,9 +4,9 @@
 	        "innerComponents": [],
 			"uiBuilder": {
 				"associatedTypes": ["global.core", "global.landing-page"],
-				"label": "My Component",
-				"icon": "document-outline",
-				"description": "A description of my component",
+				"label": "Now Task Dashboard",
+				"icon": "chart-forecast-fill",
+				"description": "Devin is the best",
 				"category": "primitives"
 			}
 	    }
