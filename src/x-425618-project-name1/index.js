@@ -1,12 +1,13 @@
 import {createCustomElement} from '@servicenow/ui-core';
 import snabbdom from '@servicenow/ui-renderer-snabbdom';
 import styles from './styles.scss';
+import '../snc-now-experience-dashboard';
+
 
 const view = (state, {updateState}) => {
 	return (
-		<div>https://developer.servicenow.com/connect.do#!/event/knowledge2021/CCL1043-K21/lab_CCL1043-K21_exercise_3_component_hierarchy</div>
-		<div>https://developer.servicenow.com/dev.do#!/reference/now-experience/quebec/ui-framework/main-concepts/component</div>
-		
+
+		<snc-now-experience-dashboard/>
 	);
 };
 
